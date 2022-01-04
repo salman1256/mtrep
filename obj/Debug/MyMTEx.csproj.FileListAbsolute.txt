@@ -1,0 +1,7 @@
+D:\GND\Day-2\MTExample\MyMTEx\MyMTEx\bin\Debug\MyMTEx.exe.config
+D:\GND\Day-2\MTExample\MyMTEx\MyMTEx\bin\Debug\MyMTEx.exe
+D:\GND\Day-2\MTExample\MyMTEx\MyMTEx\bin\Debug\MyMTEx.pdb
+D:\GND\Day-2\MTExample\MyMTEx\MyMTEx\obj\Debug\MyMTEx.csprojAssemblyReference.cache
+D:\GND\Day-2\MTExample\MyMTEx\MyMTEx\obj\Debug\MyMTEx.csproj.CoreCompileInputs.cache
+D:\GND\Day-2\MTExample\MyMTEx\MyMTEx\obj\Debug\MyMTEx.exe
+D:\GND\Day-2\MTExample\MyMTEx\MyMTEx\obj\Debug\MyMTEx.pdb
